@@ -2,6 +2,5 @@
 ## Team 22
 
 ### Team Members:
+- Parsa Sharifi 99101762
 - Amir Mohammad Fakhimi 99170531
-- Student2 99100000
-- Student3 99100000
